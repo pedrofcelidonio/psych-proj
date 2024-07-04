@@ -3,6 +3,7 @@ import numpy as np
 import random
 
 tamanho=500
+tamanho2=1000
 
 individuos = {'ids':np.arange(1,tamanho+1,1),
              'Q1':np.random.randint(1, 6, tamanho),
