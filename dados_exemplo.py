@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import random
 
-tamanho=500
+tamanho=600
 tamanho2=1000
 
 individuos = {'ids':np.arange(1,tamanho+1,1),
