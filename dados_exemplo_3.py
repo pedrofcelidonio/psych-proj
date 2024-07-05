@@ -5,7 +5,6 @@ import random
 tamanho=500
 tamanho2=1000
 variavel_teste='branch'
-variavel_teste='merge'
 
 individuos = {'ids':np.arange(1,tamanho+1,1),
              'Q1':np.random.randint(1, 6, tamanho),
